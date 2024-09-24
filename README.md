@@ -1,4 +1,4 @@
-v# Automated Visual Speech Recognization Using Deep Learning
+# Automated Visual Speech Recognization Using Deep Learning
 
 ## Overview
 This project implements a novel approach to automated lip reading using advanced deep learning techniques in Python. The primary objective is to enhance accessibility for individuals with hearing impairments and improve performance in noisy environments where traditional audio-based speech recognition systems struggle.
