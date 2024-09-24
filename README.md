@@ -1,17 +1,17 @@
-# Automated Lip Reading Using Deep Learning Techniques
+v# Automated Visual Speech Recognization Using Deep Learning
 
 ## Overview
 This project implements a novel approach to automated lip reading using advanced deep learning techniques in Python. The primary objective is to enhance accessibility for individuals with hearing impairments and improve performance in noisy environments where traditional audio-based speech recognition systems struggle.
 
 ### Project Lead
-**Dr. L Mohana Sundari**  
-Assistant Professor Senior Grade 1  
-Department Of Software Systems
+**Dr. KANAGARAJ R**  
+Assistant Professor Sr. Grade 1 
+School Of Computer Science and Engineering
 
 ### Batch Members
-- **Piyush Kumar** (21BCE3077)
-- **Madhav** (21BCE3239)
-- **Anas Khan** (21BCE3244)
+- **Himanshu Dixit** (21BDS0212)
+- **Prakshaal Jain** (21BCE2735)
+- **Chirag Singhal** (21BKT0181)
 
 ## Objectives
 - Utilize Conv3D for extracting spatiotemporal features, MaxPooling for downsampling, and LSTM for modeling sequential data to ensure high precision in word detection.
@@ -53,8 +53,6 @@ The project employs a novel deep learning approach combining CNNs and RNNs to ef
 3. **Model Training**: Train a CNN-RNN model on the preprocessed data.
 4. **Evaluation**: Assess the model's performance on unseen data.
 
-## System Architecture
-![Block Diagram](link_to_your_block_diagram_image)
 
 ### Requirements
 #### Hardware
